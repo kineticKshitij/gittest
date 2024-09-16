@@ -1,3 +1,3 @@
-app first page UI updated on develop
-appbar UI added 
+app first page UI
+appbar UI added
 footer UI added
